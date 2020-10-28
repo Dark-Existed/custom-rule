@@ -1,9 +1,7 @@
-# 内容：Scholar 国外学术网站
+# 内容：Scholar 走代理学术网站
 DOMAIN,scholar.google.com
 DOMAIN-SUFFIX,acm.org
-DOMAIN-SUFFIX,acs.org
 DOMAIN-SUFFIX,aip.org
-DOMAIN-SUFFIX,ams.org
 DOMAIN-SUFFIX,annualreviews.org
 DOMAIN-SUFFIX,aps.org
 DOMAIN-SUFFIX,arxiv.org
@@ -17,7 +15,6 @@ DOMAIN-SUFFIX,cabdirect.org
 DOMAIN-SUFFIX,cambridge.org
 DOMAIN-SUFFIX,cas.org
 DOMAIN-SUFFIX,cell.com
-DOMAIN-SUFFIX,clarivate.com
 DOMAIN-SUFFIX,csiro.au
 DOMAIN-SUFFIX,deepdyve.com
 DOMAIN-SUFFIX,ebscohost.com
@@ -25,9 +22,7 @@ DOMAIN-SUFFIX,els-cdn.com
 DOMAIN-SUFFIX,elsevier.com
 DOMAIN-SUFFIX,emerald.com
 DOMAIN-SUFFIX,endnote.com
-DOMAIN-SUFFIX,engineeringvillage.com
 DOMAIN-SUFFIX,icevirtuallibrary.com
-DOMAIN-SUFFIX,ieee.org
 DOMAIN-SUFFIX,imf.org
 DOMAIN-SUFFIX,iop.org
 DOMAIN-SUFFIX,jamanetwork.com
@@ -58,7 +53,6 @@ DOMAIN-SUFFIX,sagepub.com
 DOMAIN-SUFFIX,sci-hub.tw
 DOMAIN-SUFFIX,sci-hub.se
 DOMAIN-SUFFIX,sci-hub.st
-DOMAIN-SUFFIX,sciencedirect.com
 DOMAIN-SUFFIX,sciencemag.org
 DOMAIN-SUFFIX,scopus.com
 DOMAIN-SUFFIX,siam.org
@@ -68,7 +62,6 @@ DOMAIN-SUFFIX,springerlink.com
 DOMAIN-SUFFIX,tandfonline.com
 DOMAIN-SUFFIX,un.org
 DOMAIN-SUFFIX,uni-bielefeld.de
-DOMAIN-SUFFIX,webofknowledge.com
 DOMAIN-SUFFIX,westlaw.com
 DOMAIN-SUFFIX,wiley.com
 DOMAIN-SUFFIX,worldbank.org
