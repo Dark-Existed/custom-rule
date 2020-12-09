@@ -1,13 +1,14 @@
 # 开发中可能用到的网站
 DOMAIN-SUFFIX,bintray.com
+DOMAIN-SUFFIX,bbci.de
 DOMAIN-SUFFIX,codeforces.com
+DOMAIN-SUFFIX,flaticon.com
 DOMAIN-SUFFIX,flutter.dev
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,gradle.org
 DOMAIN-SUFFIX,gradle-dn.com
+DOMAIN-SUFFIX,icpc.tw
 DOMAIN-SUFFIX,manning.com
 DOMAIN-SUFFIX,npmjs.org
 DOMAIN-SUFFIX,pub.dev
-DOMAIN-SUFFIX,icpc.tw
-DOMAIN-SUFFIX,bbci.de
-DOMAIN-SUFFIX,flaticon.com
+DOMAIN-SUFFIX,vercel.app
