@@ -1,6 +1,7 @@
 # 开发中可能用到的网站
 DOMAIN-SUFFIX,bintray.com
 DOMAIN-SUFFIX,bbci.de
+DOMAIN-SUFFIX,b-ok.cc
 DOMAIN-SUFFIX,codeforces.com
 DOMAIN-SUFFIX,eeglearn.com
 DOMAIN-SUFFIX,flaticon.com
@@ -15,3 +16,5 @@ DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,npmjs.org
 DOMAIN-SUFFIX,pub.dev
 DOMAIN-SUFFIX,vercel.app
+DOMAIN-SUFFIX,z-lib.org
+DOMAIN-SUFFIX,zlibcdn.com
