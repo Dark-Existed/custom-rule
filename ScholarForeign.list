@@ -1,6 +1,5 @@
 # 内容：Scholar 走代理学术网站
 DOMAIN,scholar.google.com
-DOMAIN-SUFFIX,acm.org
 DOMAIN-SUFFIX,aip.org
 DOMAIN-SUFFIX,annualreviews.org
 DOMAIN-SUFFIX,aps.org
