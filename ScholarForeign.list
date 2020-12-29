@@ -38,10 +38,7 @@ DOMAIN-SUFFIX,pnas.org
 DOMAIN-SUFFIX,readcube.com
 DOMAIN-SUFFIX,researchgate.net
 DOMAIN-SUFFIX,sagepub.com
-DOMAIN-SUFFIX,sci-hub.do
-DOMAIN-SUFFIX,sci-hub.se
-DOMAIN-SUFFIX,sci-hub.st
-DOMAIN-SUFFIX,sci-hub.tw
+DOMAIN-KEYWORD,sci-hub
 DOMAIN-SUFFIX,scopus.com
 DOMAIN-SUFFIX,spiedigitallibrary.org
 DOMAIN-SUFFIX,tandfonline.com
