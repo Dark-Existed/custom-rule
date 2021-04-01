@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,mybinder.org
 DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,npmjs.org
 DOMAIN-SUFFIX,pub.dev
+DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,redis.io
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,z-lib.org
