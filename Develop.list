@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,pub.dev
 DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,pytorch.org
 DOMAIN-SUFFIX,redis.io
+DOMAIN-SUFFIX,unl.pt
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,z-lib.org
 DOMAIN-SUFFIX,zlibcdn.com
