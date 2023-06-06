@@ -32,7 +32,7 @@ DOMAIN-SUFFIX,poolbinance.com
 DOMAIN-SUFFIX,pub.dev
 DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,pytorch.org
-DOMAIN-SUFFIX,railway.app
+# DOMAIN-SUFFIX,railway.app
 DOMAIN-SUFFIX,redis.io
 DOMAIN-SUFFIX,ted.com
 DOMAIN-SUFFIX,unl.pt
