@@ -22,7 +22,7 @@ DOMAIN-SUFFIX,oup.com
 DOMAIN-SUFFIX,pkulaw.com
 DOMAIN-SUFFIX,proquest.com
 DOMAIN-SUFFIX,rsc.org
-DOMAIN-SUFFIX,sciencedirect.com
+# DOMAIN-SUFFIX,sciencedirect.com
 DOMAIN-SUFFIX,sciencemag.org
 DOMAIN-SUFFIX,siam.org
 DOMAIN-SUFFIX,springer.com
