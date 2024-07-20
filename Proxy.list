@@ -1,2 +1,4 @@
 DOMAIN-SUFFIX,calibre-ebook.com
 DOMAIN-SUFFIX,googleapis.cn
+# 腾讯第三方服务器，会被教育网blocked
+DOMAIN-SUFFIX,gtimg.com
