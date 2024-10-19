@@ -4,3 +4,5 @@ DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,gtimg.com
 # docker 
 DOMAIN-SUFFIX,docker.io
+# hf
+DOMAIN-SUFFIX,huggingface.co
