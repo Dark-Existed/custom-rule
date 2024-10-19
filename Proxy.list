@@ -1,6 +1,7 @@
 DOMAIN-SUFFIX,calibre-ebook.com
-DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,gtimg.com
-DOMAIN-SUFFIX,hf.co
 DOMAIN,rule-store.onrender.com
+DOMAIN-SUFFIX,ted.com
+DOMAIN-SUFFIX,z-lib.org
+DOMAIN-SUFFIX,zlibcdn.com

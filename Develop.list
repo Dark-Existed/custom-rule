@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,codeforces.com
 DOMAIN-SUFFIX,eeglearn.com
 DOMAIN-SUFFIX,etherscan.io
 DOMAIN-SUFFIX,dl.google.com
+DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,flaticon.com
 DOMAIN-SUFFIX,flutter.dev
 DOMAIN-SUFFIX,github.io
@@ -16,6 +17,7 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,gradle.org
 DOMAIN-SUFFIX,gradle-dn.com
 DOMAIN-SUFFIX,herokuapp.com
+DOMAIN-SUFFIX,hf.co
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,icpc.tw
 DOMAIN-SUFFIX,inoreader.com
@@ -35,9 +37,6 @@ DOMAIN-SUFFIX,pytorch.org
 DOMAIN-SUFFIX,railway.app
 DOMAIN-SUFFIX,redis.io
 DOMAIN-SUFFIX,render.com
-DOMAIN-SUFFIX,ted.com
 DOMAIN-SUFFIX,unl.pt
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,vercel.com
-DOMAIN-SUFFIX,z-lib.org
-DOMAIN-SUFFIX,zlibcdn.com
