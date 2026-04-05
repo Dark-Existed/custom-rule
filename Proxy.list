@@ -1,7 +1,8 @@
+# Custom Proxy List
 DOMAIN-SUFFIX,calibre-ebook.com
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,gtimg.com
-DOMAIN,rule-store.onrender.com
+DOMAIN-SUFFIX,onrender.com
 DOMAIN-SUFFIX,ted.com
 DOMAIN-SUFFIX,z-lib.org
 DOMAIN-SUFFIX,zlibcdn.com
